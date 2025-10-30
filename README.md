@@ -47,7 +47,7 @@ Fullstack & Web3 Developer | Next.js • React • Node.js • Firebase • Mong
 
 - Portfolio: [https://damilolaewi.vercel.app](https://damilolaewi.vercel.app)  
 - LinkedIn: [https://www.linkedin.com/in/damilola-ewi](https://www.linkedin.com/in/damilola-ewi)  
-- X: [https://x.com/mrewionly](https://x.com/mrewionly)
+- X: [https://x.com/mrewidev](https://x.com/mrewidev)
 
 ---
 
